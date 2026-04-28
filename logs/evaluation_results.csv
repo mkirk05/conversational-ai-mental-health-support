@@ -1,0 +1,285 @@
+text,actual,predicted,subtype,correct
+I feel gloomy and keep expecting small problems to grow.,mixed_depression_primary,mixed_depression_primary,pessimistic_anxiety,True
+"There are moments when I feel both sad and anxious, and I can’t tell if it’s stress or just a temporary low mood",mixed_depression_primary,mixed_balanced,pessimistic_anxiety,False
+"I don't feel excited about hobbies recently, even though I still do them",depression_primary,depression_primary,emotional_flatness,True
+I feel emotionally balanced between stress and low mood,mixed_balanced,mixed_balanced,stress_and_low_mood_equal,True
+I don’t get the same enjoyment out of things anymore. It makes me wonder a bit,depression_primary,depression_primary,loss_of_interest,True
+"My mood feels evenly split between stress and low mood, leaving me unsure how to describe it",mixed_balanced,mixed_balanced,stress_and_low_mood_equal,True
+I keep going over conversations in my head and second guessing them. It feels unnecessary but I can't stop,anxiety_primary,anxiety_primary,overthinking,True
+My mood seems to swing subtly from calm to slightly low throughout the day and it leaves me uncertain about how I feel,mixed_balanced,mixed_balanced,fluctuating_mood,True
+I notice I expect the worst even in small situations. It brings my mood down,mixed_depression_primary,mixed_anxiety_primary,pessimistic_anxiety,False
+My worries gradually turn into sadness.,mixed_anxiety_primary,mixed_anxiety_primary,rumination_and_sadness,True
+I asked a friend if they feel overwhelmed sometimes too,neutral,neutral,reassurance_seeking,True
+I feel low while worrying about small issues.,mixed_depression_primary,mixed_depression_primary,sadness_with_worry,True
+I’m asking myself if others also feel this stressed sometimes.,neutral,neutral,reassurance_seeking,True
+I feel emotionally flat throughout the afternoon.,depression_primary,depression_primary,emotional_flatness,True
+I feel anxious and end up feeling exhausted from it. It takes a toll,mixed_anxiety_primary,mixed_anxiety_primary,anxious_exhaustion,True
+I had a standard day with manageable stress.,neutral,neutral,everyday_stress,True
+I don’t feel much excitement when planning the weekend.,depression_primary,depression_primary,loss_of_interest,True
+I feel emotionally flat during conversations,depression_primary,depression_primary,emotional_flatness,True
+My energy feels low today and I can’t tell if it’s just fatigue or a reflection of my mood,neutral,mixed_balanced,reassurance_seeking,False
+I feel uneasy and pessimistic about small plans.,mixed_depression_primary,mixed_depression_primary,pessimistic_anxiety,True
+I've been thinking about my feelings more than usual. Not sure if it's anything serious,neutral,neutral,self_reflection,True
+I feel a combination of stress and low mood together. It’s hard to separate them,mixed_balanced,mixed_balanced,stress_and_low_mood_equal,True
+I feel sad and anxious about future possibilities,mixed_depression_primary,mixed_depression_primary,sadness_with_worry,True
+I feel slightly worn out but still managing everything fine. It's probably normal,neutral,neutral,temporary_tiredness,True
+I feel sad and worry at the same time,mixed_depression_primary,mixed_anxiety_primary,sadness_with_worry,False
+I keep thinking about future outcomes that might never happen. It feels unnecessary,anxiety_primary,anxiety_primary,worry_future,True
+"Some days I feel both anxious and down about minor things, and it’s hard to know which feeling to address first",mixed_depression_primary,mixed_anxiety_primary,pessimistic_anxiety,False
+I'm not sure why I keep thinking about small things over and over. It makes it hard to relax,anxiety_primary,anxiety_primary,overthinking,True
+I sometimes ask myself if everything feels normal. It probably is but I still question it,neutral,neutral,reassurance_seeking,True
+I feel both stressed and slightly down equally today,mixed_balanced,mixed_balanced,stress_and_low_mood_equal,True
+My energy dips while my thoughts stay active.,mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+I’ve been reflecting on the way I handle small frustrations and wondering if that’s normal,neutral,neutral,self_reflection,True
+I asked a friend if it’s normal to feel drained after work,neutral,neutral,reassurance_seeking,True
+I keep replaying things in my head and wondering if I did something wrong. It's exhausting,anxiety_primary,anxiety_primary,overthinking,True
+My feelings feel hard to sort out lately,mixed_balanced,mixed_balanced,emotional_confusion,True
+I keep doubting choices I already made,anxiety_primary,anxiety_primary,overthinking,True
+I feel tired from everyday obligations but nothing unusual.,neutral,neutral,temporary_tiredness,True
+I've been reflecting on my day more than usual. Not sure why it stands out,neutral,neutral,self_reflection,True
+I spent time thinking about what went well today.,neutral,neutral,self_reflection,True
+"My mind keeps cycling through what could go wrong tomorrow, and it makes my chest tight and restless",anxiety_primary,anxiety_primary,worry_future,True
+Sometimes I feel low but also worried at the same time. It's a strange mix,mixed_depression_primary,mixed_depression_primary,sadness_with_worry,True
+I struggle to get moving in the morning.,depression_primary,depression_primary,low_motivation,True
+I feel both stressed and down in roughly equal amounts,mixed_balanced,mixed_balanced,stress_and_low_mood_equal,True
+I can't stop thinking about little mistakes I made. It lingers longer than it should,anxiety_primary,anxiety_primary,overthinking,True
+"I feel anxious and slightly sad about upcoming tasks, and it leaves me unsure how to approach anything",mixed_anxiety_primary,mixed_anxiety_primary,worry_with_low_mood,True
+My feelings are mixed and hard to organize.,mixed_balanced,mixed_balanced,emotional_confusion,True
+It takes extra effort to begin routine chores.,depression_primary,depression_primary,low_motivation,True
+I feel disconnected from hobbies lately.,depression_primary,depression_primary,loss_of_interest,True
+I get anxious thoughts and they leave me feeling drained afterward. It’s quite tiring,mixed_anxiety_primary,mixed_anxiety_primary,anxious_exhaustion,True
+I feel sad while thinking about upcoming responsibilities.,mixed_depression_primary,mixed_depression_primary,sadness_with_worry,True
+I feel tired and my thoughts keep looping about small details. It wears me out,mixed_depression_primary,mixed_anxiety_primary,low_energy_overthinking,False
+"I spend hours thinking about whether I’m doing enough in my personal life, and it leaves me feeling drained",neutral,mixed_anxiety_primary,self_reflection,False
+I’m just checking if it’s normal to feel this tired after a long week?,neutral,neutral,reassurance_seeking,True
+I notice tension in my body whenever I think about upcoming responsibilities,anxiety_primary,anxiety_primary,physical_tension,True
+I feel uncertain about small decisions lately. It's unusual for me,anxiety_primary,anxiety_primary,uncertainty,True
+I notice that I can’t focus on my usual hobbies and that it makes me question if I’m losing interest in them,depression_primary,depression_primary,loss_of_interest,True
+My emotions feel layered and complex.,mixed_balanced,mixed_balanced,emotional_confusion,True
+I feel worried while emotionally worn down.,mixed_anxiety_primary,mixed_anxiety_primary,worry_with_low_mood,True
+I notice reduced motivation for small daily tasks,depression_primary,depression_primary,low_motivation,True
+I feel a bit low and also worried about how things will turn out. It lingers,mixed_depression_primary,mixed_depression_primary,sadness_with_worry,True
+I’ve been reflecting on small frustrations lately,neutral,neutral,self_reflection,True
+I feel sad at times and also catch myself worrying about little things. It comes together,mixed_depression_primary,mixed_depression_primary,sadness_with_worry,True
+I question whether I'm prepared for upcoming events,anxiety_primary,anxiety_primary,uncertainty,True
+I imagine possible problems before events happen.,anxiety_primary,anxiety_primary,worry_future,True
+I've been more tired than usual but still functioning fine. Just feels off,neutral,neutral,temporary_tiredness,True
+I review choices repeatedly after making them.,anxiety_primary,anxiety_primary,overthinking,True
+I imagine future conversations and possible outcomes repeatedly.,anxiety_primary,anxiety_primary,worry_future,True
+It takes longer than usual to start daily tasks.,depression_primary,depression_primary,low_motivation,True
+I can't clearly describe my emotional state lately,mixed_balanced,mixed_balanced,emotional_confusion,True
+My mood shifts between okay and slightly low during the day. It’s noticeable,mixed_balanced,mixed_balanced,fluctuating_mood,True
+My emotions seem to change during the day without much reason. It’s noticeable,mixed_balanced,mixed_balanced,fluctuating_mood,True
+Sometimes I feel equally stressed and slightly down at the same time,mixed_balanced,mixed_balanced,stress_and_low_mood_equal,True
+I feel low energy while focusing on negatives,mixed_depression_primary,mixed_depression_primary,pessimistic_anxiety,True
+I imagine possible future outcomes repeatedly.,anxiety_primary,anxiety_primary,worry_future,True
+Things have been a bit stressful but nothing out of the ordinary. I just keep thinking about it,neutral,neutral,everyday_stress,True
+"My thoughts keep jumping between worrying about the future and feeling low, and it’s hard to focus on anything",mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+I spent time thinking about how today compared to yesterday.,neutral,neutral,self_reflection,True
+I overanalyze messages before sending them.,anxiety_primary,anxiety_primary,overthinking,True
+I notice that my shoulders get tense whenever I start thinking about deadlines coming up,anxiety_primary,anxiety_primary,physical_tension,True
+I feel both pressure and a slight low mood at the same time. They feel equal,mixed_balanced,mixed_balanced,stress_and_low_mood_equal,True
+I notice physical tension when deadlines approach,anxiety_primary,anxiety_primary,physical_tension,True
+I spent time reflecting quietly this evening.,neutral,neutral,self_reflection,True
+It feels harder to get started in the mornings.,depression_primary,depression_primary,low_motivation,True
+"My mind keeps spinning with anxious thoughts and small worries, and it leaves me drained by the evening",mixed_anxiety_primary,mixed_anxiety_primary,anxious_exhaustion,True
+I feel exhausted by thinking yet slightly down too,mixed_anxiety_primary,mixed_anxiety_primary,anxious_exhaustion,True
+I feel stress and sadness sharing equal space today.,mixed_balanced,mixed_balanced,stress_and_low_mood_equal,True
+I feel sadness tied to constant thinking,mixed_anxiety_primary,mixed_anxiety_primary,rumination_and_sadness,True
+I feel mentally exhausted and a little down from thinking about too many small things,mixed_anxiety_primary,mixed_anxiety_primary,anxious_exhaustion,True
+My stomach tightens when deadlines approach.,anxiety_primary,anxiety_primary,physical_tension,True
+My mood swings subtly across the day,mixed_balanced,mixed_balanced,fluctuating_mood,True
+My emotions move between calm and unsettled.,mixed_balanced,mixed_balanced,fluctuating_mood,True
+It takes extra effort to begin daily routines.,depression_primary,depression_primary,low_motivation,True
+I've been dealing with everyday tasks and feeling a bit stressed. Nothing major though,neutral,neutral,everyday_stress,True
+I feel low while worrying about future responsibilities.,mixed_depression_primary,mixed_depression_primary,sadness_with_worry,True
+I’m wondering if others also reflect this much.,neutral,neutral,reassurance_seeking,True
+I feel stressed but it's all normal stuff like work and errands. Still makes me question it,neutral,neutral,everyday_stress,True
+I can’t clearly identify my main emotion today.,mixed_balanced,mixed_balanced,emotional_confusion,True
+My energy is low while I overthink things,mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+My day included normal responsibilities and mild stress.,neutral,neutral,everyday_stress,True
+I feel slightly sad and also worried about small situations. It happens often,mixed_depression_primary,mixed_anxiety_primary,sadness_with_worry,False
+I feel drained and my mind keeps overanalyzing everything. It’s hard to switch off,mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+I notice fluctuations in my energy and mood that leave me questioning whether I’m just tired or a bit down,mixed_balanced,mixed_balanced,fluctuating_mood,True
+I feel sad while also worrying about upcoming tasks.,mixed_depression_primary,mixed_depression_primary,sadness_with_worry,True
+My mood swings subtly between calm and slightly down,mixed_balanced,mixed_balanced,fluctuating_mood,True
+My thoughts remain active despite low energy.,mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+I keep thinking about what might go wrong tomorrow,anxiety_primary,anxiety_primary,worry_future,True
+Getting started feels harder than usual and I keep putting small tasks off.,depression_primary,depression_primary,low_motivation,True
+I feel low while anticipating problems.,mixed_depression_primary,mixed_depression_primary,sadness_with_worry,True
+I feel tired while worrying about upcoming plans,mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+My energy is low and I keep overanalyzing things in my head. It’s exhausting,mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+Some nights I lie awake thinking about what I should have done differently and it leaves me feeling slightly sad,mixed_anxiety_primary,mixed_anxiety_primary,rumination_and_sadness,True
+I don't feel excited about much lately. It's all a bit dull,depression_primary,depression_primary,loss_of_interest,True
+I've been reflecting on how I've been feeling recently. Not sure if it's just me noticing more,neutral,neutral,self_reflection,True
+My feelings feel mixed and unclear.,mixed_balanced,mixed_balanced,emotional_confusion,True
+"There are times when I feel both anxious about the future and sad about the past, and I can’t tell which feeling is stronger",mixed_depression_primary,mixed_depression_primary,sadness_with_worry,True
+I feel low energy while worrying about future outcomes,mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+My routine has been slightly stressful but manageable. Still makes me think a bit,neutral,neutral,everyday_stress,True
+I feel anxious thoughts and sadness together. They seem connected,mixed_depression_primary,mixed_anxiety_primary,pessimistic_anxiety,False
+My worries repeat until my mood lowers.,mixed_anxiety_primary,mixed_anxiety_primary,rumination_and_sadness,True
+I feel emotionally flat even during good news,depression_primary,depression_primary,emotional_flatness,True
+I feel mentally drained from worrying thoughts,mixed_anxiety_primary,mixed_anxiety_primary,anxious_exhaustion,True
+I keep imagining worst-case scenarios even when there’s nothing immediate to worry about,anxiety_primary,anxiety_primary,worry_future,True
+I feel worried even when I lack energy to act,mixed_depression_primary,mixed_depression_primary,sadness_with_worry,True
+I feel worn down from thinking and slightly sad afterward,mixed_anxiety_primary,mixed_anxiety_primary,rumination_and_sadness,True
+My body feels tense even when I'm resting. I don't know why,anxiety_primary,anxiety_primary,physical_tension,True
+My thoughts keep looping and it makes me feel a bit sad as well. It’s difficult to break,mixed_anxiety_primary,mixed_anxiety_primary,rumination_and_sadness,True
+I worry about upcoming things even when they're small. It builds up,anxiety_primary,anxiety_primary,worry_future,True
+I've been finding it hard to get started on things lately. Even simple tasks feel like effort,depression_primary,depression_primary,low_motivation,True
+I keep imagining worst-case scenarios in my head,anxiety_primary,anxiety_primary,worry_future,True
+I feel drained while worrying about small details,mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+My thoughts turn pessimistic while my energy feels unusually low,mixed_depression_primary,mixed_depression_primary,pessimistic_anxiety,True
+My emotions seem mixed and unclear lately,mixed_balanced,mixed_balanced,emotional_confusion,True
+I feel low energy and keep replaying thoughts,mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+I've just had a lot going on lately which might explain how I feel,neutral,neutral,everyday_stress,True
+"Today I felt completely drained after doing routine tasks, and I’m not sure if it’s just fatigue or something more",neutral,neutral,temporary_tiredness,True
+I've been dealing with normal stress but still question how I feel. It's odd,neutral,neutral,everyday_stress,True
+"My mood sometimes feels flat and unmotivated, and I wonder if it’s just temporary or more persistent",depression_primary,depression_primary,emotional_flatness,True
+I’m checking if others feel this mentally busy.,neutral,neutral,reassurance_seeking,True
+"My mind keeps spinning about what could go wrong, even when I logically know everything is fine",anxiety_primary,anxiety_primary,uncertainty,True
+I struggle to start tasks lately and it makes me wonder why my motivation dipped,depression_primary,depression_primary,low_motivation,True
+My mind jumps to worst case scenarios even for small things. I wish it didn't do that,anxiety_primary,anxiety_primary,worry_future,True
+I feel unsure about upcoming choices,anxiety_primary,anxiety_primary,uncertainty,True
+Things that used to be enjoyable feel a bit dull now. I'm not sure why that is,depression_primary,depression_primary,loss_of_interest,True
+I felt temporarily worn out from everyday tasks.,neutral,neutral,temporary_tiredness,True
+My mood changes subtly throughout the day.,mixed_balanced,mixed_balanced,fluctuating_mood,True
+Sometimes I catch myself overthinking every tiny decision I make and I wonder if it’s just me being paranoid or if I’m missing something important,anxiety_primary,neutral,overthinking,False
+I worry about things that haven't even happened yet,anxiety_primary,anxiety_primary,worry_future,True
+I keep thinking ahead and imagining problems. It distracts me,anxiety_primary,anxiety_primary,worry_future,True
+I analyze situations long after they happen,anxiety_primary,anxiety_primary,overthinking,True
+I feel worried and a little sad at the same time,mixed_anxiety_primary,mixed_anxiety_primary,rumination_and_sadness,True
+I feel emotionally flat even during positive moments,depression_primary,depression_primary,emotional_flatness,True
+"I worry about whether my tiredness is normal or if I’m overdoing things, even though I try to rest properly",neutral,neutral,self_reflection,True
+My mind feels crowded with worries and fatigue.,mixed_anxiety_primary,mixed_anxiety_primary,anxious_exhaustion,True
+I feel unsure about decisions I recently made.,anxiety_primary,anxiety_primary,uncertainty,True
+"My mood shifts slightly throughout the day, and it’s hard to track",mixed_balanced,mixed_balanced,fluctuating_mood,True
+My thoughts focus on negative outcomes while I feel drained,mixed_depression_primary,mixed_depression_primary,pessimistic_anxiety,True
+I can’t clearly identify which emotion stands out most.,mixed_balanced,mixed_balanced,emotional_confusion,True
+"Some mornings I feel like nothing excites me, even little things I usually enjoy",depression_primary,depression_primary,loss_of_interest,True
+I've had some minor stress from daily things. It's nothing unusual but noticeable,neutral,neutral,everyday_stress,True
+I worry about things that haven't even happened yet. It's hard to ignore,anxiety_primary,mixed_depression_primary,worry_future,False
+There are moments where I’m okay but then I start doubting my choices and it feels like my mind can’t settle on anything,mixed_balanced,anxiety_primary,emotional_confusion,False
+I notice motivation fading during the day,depression_primary,depression_primary,low_motivation,True
+I struggle to feel motivated even for hobbies,depression_primary,depression_primary,loss_of_interest,True
+I replay conversations I had earlier and keep wondering if I should have acted differently,anxiety_primary,anxiety_primary,overthinking,True
+I notice emotional dullness at times,depression_primary,depression_primary,emotional_flatness,True
+I notice tension in my body when thinking ahead,anxiety_primary,anxiety_primary,physical_tension,True
+I’m checking whether others find this level of stress normal.,neutral,neutral,reassurance_seeking,True
+I feel sad while my thoughts race constantly,mixed_anxiety_primary,mixed_depression_primary,anxious_exhaustion,False
+My energy drops while my mind predicts problems.,mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+My mind feels nonstop and exhausting.,mixed_anxiety_primary,mixed_anxiety_primary,anxious_exhaustion,True
+"My mind keeps returning to what could go wrong tomorrow, and I feel a low-level tension I can’t ignore",anxiety_primary,mixed_depression_primary,worry_future,False
+"Sometimes I get both sad and anxious when thinking about my social life, and I can’t tell which feeling is stronger",mixed_anxiety_primary,mixed_anxiety_primary,worry_with_low_mood,True
+My mood changes subtly during the day,mixed_balanced,mixed_balanced,fluctuating_mood,True
+I’ve been reflecting more on how I handle small challenges,neutral,neutral,self_reflection,True
+I feel worried while also emotionally weighed down.,mixed_anxiety_primary,mixed_anxiety_primary,worry_with_low_mood,True
+I had a normal day but felt slightly pressured by small responsibilities.,neutral,neutral,everyday_stress,True
+"I often notice tension in my body when I sit at my desk for long periods, and I can’t tell if it’s just posture or stress",anxiety_primary,anxiety_primary,physical_tension,True
+I feel low and keep worrying about future responsibilities.,mixed_depression_primary,mixed_depression_primary,sadness_with_worry,True
+I feel drained from thinking constantly and also notice a low mood lingering,mixed_anxiety_primary,mixed_anxiety_primary,anxious_exhaustion,True
+My worries blend into sadness over time.,mixed_anxiety_primary,mixed_anxiety_primary,rumination_and_sadness,True
+My energy feels low while I keep expecting problems.,mixed_depression_primary,mixed_depression_primary,pessimistic_anxiety,True
+My day was ordinary but mentally full.,neutral,neutral,everyday_stress,True
+I picture different future scenarios repeatedly.,anxiety_primary,anxiety_primary,worry_future,True
+I feel stress and sadness in equal amounts today.,mixed_balanced,mixed_balanced,stress_and_low_mood_equal,True
+I struggle to explain what emotion is strongest lately,mixed_balanced,mixed_balanced,emotional_confusion,True
+"I can’t stop replaying minor mistakes in my head, and it leaves me feeling tense and emotionally drained",mixed_anxiety_primary,mixed_anxiety_primary,rumination_and_sadness,True
+"Sometimes I notice that I don’t have the motivation to start simple tasks, and I wonder if it’s temporary or something more",depression_primary,depression_primary,low_motivation,True
+I keep doubting my choices afterward,anxiety_primary,anxiety_primary,overthinking,True
+"My thoughts keep returning to what could go wrong, and it leaves me feeling restless even when nothing serious is happening",anxiety_primary,anxiety_primary,uncertainty,True
+I feel uncertain about how things will turn out.,anxiety_primary,anxiety_primary,uncertainty,True
+My thoughts feel heavy and pessimistic.,mixed_depression_primary,mixed_depression_primary,pessimistic_anxiety,True
+I’m reflecting on how I handled things today and what I learned.,neutral,neutral,self_reflection,True
+"Even when I try to relax, I feel both anxious and low, and it’s hard to decide what to focus on first",mixed_balanced,mixed_depression_primary,stress_and_low_mood_equal,False
+I wonder if I’m just being sensitive when I notice myself overthinking conversations or decisions,neutral,anxiety_primary,self_reflection,False
+I overthink conversations after they end.,anxiety_primary,anxiety_primary,overthinking,True
+My emotions feel mixed together without a clear reason.,mixed_balanced,mixed_balanced,emotional_confusion,True
+I’m just looking for reassurance that this stress level is normal.,neutral,neutral,reassurance_seeking,True
+I feel low energy while thinking too much,mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+I feel emotionally distant from positive events.,depression_primary,depression_primary,emotional_flatness,True
+I’ve been thinking a lot about my reactions this week,neutral,neutral,self_reflection,True
+I notice fluctuations in my mood that leave me unsure whether I’m genuinely sad or just tired,mixed_balanced,mixed_balanced,fluctuating_mood,True
+I second-guess choices I already made,anxiety_primary,anxiety_primary,overthinking,True
+I feel emotionally quiet despite good moments.,depression_primary,depression_primary,emotional_flatness,True
+I feel less enjoyment from things I usually like,depression_primary,depression_primary,loss_of_interest,True
+My mind stays active while I feel emotionally drained.,mixed_anxiety_primary,mixed_depression_primary,anxious_exhaustion,False
+"I’ve been more tired than usual this week, but I think it’s just normal",neutral,neutral,temporary_tiredness,True
+I don't feel as interested in things I used to enjoy. It's a bit concerning,depression_primary,depression_primary,loss_of_interest,True
+My day felt routine but tiring.,neutral,neutral,everyday_stress,True
+I can’t quite figure out my emotions lately. They feel mixed and unclear,mixed_balanced,mixed_balanced,emotional_confusion,True
+I’ve been more tired than usual but it might just be the week,neutral,neutral,temporary_tiredness,True
+I notice my emotional reactions feel muted.,depression_primary,depression_primary,emotional_flatness,True
+My feelings are hard to sort out and I can’t tell whether I’m stressed or just off,mixed_balanced,mixed_balanced,emotional_confusion,True
+My energy is limited but my thoughts keep planning problems.,mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+I feel equally weighed by stress and low mood today.,mixed_balanced,mixed_balanced,stress_and_low_mood_equal,True
+I feel equally stressed and low emotionally,mixed_balanced,mixed_balanced,stress_and_low_mood_equal,True
+My emotions drift between calm and unsettled.,mixed_balanced,mixed_balanced,fluctuating_mood,True
+I might just need a break from daily stress,neutral,neutral,everyday_stress,True
+"Even routine chores feel exhausting lately, and I can’t decide if it’s just fatigue or a lack of interest",depression_primary,depression_primary,loss_of_interest,True
+I keep asking myself if I'm overreacting to normal stress,neutral,neutral,reassurance_seeking,True
+"I feel really drained today even though I slept well, and I’m not sure if it’s just a phase or something I should pay attention to",neutral,depression_primary,temporary_tiredness,False
+"Even when I’m doing routine tasks, I notice tension in my shoulders and jaw, and I wonder if I’m holding onto stress without realizing it",anxiety_primary,anxiety_primary,physical_tension,True
+I feel anxious about minor future tasks and also notice a low energy that makes it hard to function fully,mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+My schedule felt busy yet manageable.,neutral,neutral,everyday_stress,True
+I expect things to go poorly even when there’s no clear reason.,mixed_depression_primary,mixed_depression_primary,pessimistic_anxiety,True
+I feel low while also imagining potential difficulties ahead,mixed_depression_primary,mixed_depression_primary,pessimistic_anxiety,True
+I feel emotionally distant during conversations.,depression_primary,depression_primary,emotional_flatness,True
+I feel both stressed and a little low at the same time. It feels evenly split,mixed_balanced,mixed_balanced,stress_and_low_mood_equal,True
+I’m less interested in social plans recently.,depression_primary,depression_primary,loss_of_interest,True
+I’ve been reflecting on how I handle everyday stress,neutral,neutral,self_reflection,True
+I struggle to care about plans I normally look forward to,depression_primary,depression_primary,loss_of_interest,True
+My mood feels confusing today; I can’t tell if I’m stressed or just off,mixed_balanced,mixed_balanced,emotional_confusion,True
+I feel exhausted from thinking through worries.,mixed_anxiety_primary,mixed_anxiety_primary,anxious_exhaustion,True
+It’s hard to care much about plans I used to look forward to.,depression_primary,depression_primary,emotional_flatness,True
+I feel detached from activities around me.,depression_primary,depression_primary,loss_of_interest,True
+I notice reduced motivation even for simple tasks,depression_primary,depression_primary,low_motivation,True
+I notice less enjoyment in activities I usually like.,depression_primary,depression_primary,loss_of_interest,True
+I've been thinking about how I react to situations. Not sure if it means anything,neutral,neutral,self_reflection,True
+I struggle to describe exactly what I’m feeling.,mixed_balanced,depression_primary,emotional_confusion,False
+I feel worn out from thinking and also slightly sad,mixed_anxiety_primary,mixed_anxiety_primary,anxious_exhaustion,True
+"I’ve been tired from routine responsibilities, nothing unusual though.",neutral,neutral,temporary_tiredness,True
+I feel both stressed and low without one standing out,mixed_balanced,mixed_balanced,stress_and_low_mood_equal,True
+"Sometimes I feel anxious about small upcoming responsibilities and also low in energy, which makes it hard to focus",mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+I imagine what could go wrong tomorrow,anxiety_primary,anxiety_primary,worry_future,True
+I replay conversations in my head and analyze them too much. It's draining,anxiety_primary,anxiety_primary,overthinking,True
+My mood swings gently between stressed and calm during the day,mixed_balanced,mixed_balanced,fluctuating_mood,True
+I get anxious about everyday things and it leaves me feeling very tired. It builds up,mixed_anxiety_primary,mixed_anxiety_primary,anxious_exhaustion,True
+I feel worry looping alongside sadness,mixed_anxiety_primary,mixed_anxiety_primary,rumination_and_sadness,True
+I feel mentally drained from constant worrying while also feeling a little sad without a clear reason,mixed_anxiety_primary,mixed_anxiety_primary,anxious_exhaustion,True
+I feel down while thinking about future tasks.,mixed_depression_primary,mixed_depression_primary,sadness_with_worry,True
+Lately I feel anxious thoughts lingering while a low mood stays with me longer than usual,mixed_anxiety_primary,mixed_anxiety_primary,worry_with_low_mood,True
+My feelings seem hard to categorize,mixed_balanced,mixed_balanced,emotional_confusion,True
+I worry often and feel emotionally heavy.,mixed_anxiety_primary,mixed_anxiety_primary,worry_with_low_mood,True
+My thoughts jump between worry about upcoming tasks and feeling down about small personal issues,mixed_balanced,mixed_depression_primary,stress_and_low_mood_equal,False
+My thoughts circle worries until I feel sad.,mixed_anxiety_primary,mixed_anxiety_primary,rumination_and_sadness,True
+I don’t feel motivated to complete even small tasks,depression_primary,depression_primary,low_motivation,True
+I feel stress and low mood equally present,mixed_balanced,mixed_balanced,stress_and_low_mood_equal,True
+I’m simply tired after completing routine tasks.,neutral,neutral,temporary_tiredness,True
+My mind races but I also feel emotionally worn down.,mixed_anxiety_primary,mixed_anxiety_primary,anxious_exhaustion,True
+I feel low and also uneasy about things I normally wouldn’t think twice about. It’s odd,mixed_depression_primary,mixed_depression_primary,sadness_with_worry,True
+I feel disconnected from things I once enjoyed.,depression_primary,depression_primary,loss_of_interest,True
+"I notice minor tensions in my body even on calm days, and it leaves me reflecting on whether I’m stressed more than I realize",anxiety_primary,neutral,physical_tension,False
+I felt temporarily tired after finishing routine tasks.,neutral,neutral,temporary_tiredness,True
+Even hobbies I usually enjoy feel kind of dull and it makes me wonder if my motivation is just off,depression_primary,depression_primary,emotional_flatness,True
+I don't feel excited about things like I used to. It's a bit dull,depression_primary,depression_primary,loss_of_interest,True
+My mood shifts slightly throughout the day.,mixed_balanced,mixed_balanced,fluctuating_mood,True
+I notice low energy and negative thinking overlapping,mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+I feel low while thinking about responsibilities ahead.,mixed_depression_primary,mixed_depression_primary,sadness_with_worry,True
+My energy feels drained but my thoughts won’t stop analyzing every detail,mixed_depression_primary,mixed_depression_primary,low_energy_overthinking,True
+My motivation is low and my thoughts keep going in circles. It’s exhausting,mixed_depression_primary,mixed_anxiety_primary,low_energy_overthinking,False
+I feel sad and uneasy thinking ahead.,mixed_depression_primary,mixed_depression_primary,sadness_with_worry,True
+My mood shifts gently throughout the day,mixed_balanced,mixed_balanced,fluctuating_mood,True
+"My energy feels low for no reason, and I wonder if it’s just a lazy day or something more persistent",depression_primary,depression_primary,low_motivation,True
+My mood goes back and forth between feeling fine and slightly off. It’s inconsistent,mixed_balanced,mixed_balanced,fluctuating_mood,True
+I feel worried and emotionally low together.,mixed_anxiety_primary,mixed_anxiety_primary,worry_with_low_mood,True
+My mood drifts gradually between calm and low.,mixed_balanced,mixed_balanced,fluctuating_mood,True
+My thoughts go in circles about small things. It gets tiring quickly,anxiety_primary,mixed_depression_primary,overthinking,False
+I feel emotionally quiet even during lively conversations.,depression_primary,depression_primary,emotional_flatness,True
+I find it hard to care about hobbies right now.,depression_primary,depression_primary,loss_of_interest,True
+"Even when I try to take it easy, I notice my thoughts keep jumping from one worry to another, and I wonder if that’s normal",anxiety_primary,anxiety_primary,overthinking,True
+"Even when my schedule is manageable, I can’t stop thinking about what could go wrong, and it makes me restless",anxiety_primary,anxiety_primary,uncertainty,True
+"I notice a tightness in my chest when I think about small upcoming tasks, and it leaves me feeling unsettled",anxiety_primary,anxiety_primary,physical_tension,True
+I feel a bit drained after doing regular things. It's likely just a busy schedule,neutral,neutral,temporary_tiredness,True
+My emotions feel confusing and blended today,mixed_balanced,mixed_balanced,emotional_confusion,True
+"Even when everything seems fine, I catch myself overthinking what could go wrong in the next few days",anxiety_primary,anxiety_primary,uncertainty,True
