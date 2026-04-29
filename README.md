@@ -15,7 +15,7 @@ This project implements a conversational AI system designed to provide supportiv
 ## Project Structure
 ```plaintext
 app/               #Core logic (classification, response generation, safety)
-data/              #Datset used for training
+data/              #Dataset used for training
 models/            #Trained model and vectorizer
 logs/              #Evaluation results
 UI_app.py          #Main Streamlit interface
